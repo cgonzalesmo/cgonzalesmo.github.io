@@ -1,0 +1,54 @@
+{
+    "quotes": [
+        {
+            "id" : 1,
+            "quote" : "Sólo hay dos clases de médicos: los que practican con el cerebro y los que practican con la lengua.",
+            "author" : "William Osler"
+        },
+        {
+            "id" : 2,
+            "quote" : "El objetivo de la medicina es prevenir la enfermedad y prolongar la vida, el ideal de la medicina es eliminar la necesidad de un médico.",
+            "author" : "William J. Mayo"
+        },
+        {
+            "id" : 3,
+            "quote" : "Los medicamentos curan las enfermedades, pero sólo los médicos pueden curar a los pacientes.",
+            "author" : "Carl Jung"
+        },
+        {
+            "id" : 4,
+            "quote" : "Los mejores médicos del mundo son el Doctor Dieta, el Doctor Tranquilo y el Doctor Alegre.",
+            "author" : "Jonathan Swift"
+        },
+        {
+            "id" : 5,
+            "quote" : "Cada paciente lleva su propio médico dentro.",
+            "author" : "Norman Cousins"
+        },
+        {
+            "id" : 6,
+            "quote" : "Uno de los primeros deberes del médico es educar a las masas para que no tomen medicamentos.",
+            "author" : "William Osler"
+        },
+        {
+            "id" : 7,
+            "quote" : "Que los jóvenes sepan que nunca encontrarán un libro más interesante e instructivo que el propio paciente.",
+            "author" : "Giorgio Baglivi"
+        },
+        {
+            "id" : 8,
+            "quote" :  "La enfermedad es el médico al que más caso hacemos; a la bondad, al conocimiento, sólo hacemos promesa; al dolor obedecemos.",
+            "author" : "Marcel Proust"
+        },
+        {
+            "id" : 9,
+            "quote" :  "En nada se acercan más los hombres a los dioses que en dar salud a los hombres.",
+            "author" : "Marcus Tullius Cicero"
+        },
+        {
+            "id" : 10,
+            "quote" :  "La mayoría de los médicos son prisioneros de su formación y están encadenados por su profesión.",
+            "author" : "Richard Diaz"
+        }
+    ]
+}
